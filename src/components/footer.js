@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
-import { FaHeart } from "react-icons/fa";
+import { FaHeart, FaDev } from "react-icons/fa";
 
 const footer = () => {
   return (
@@ -29,6 +29,9 @@ const footer = () => {
             className="social-icons"
           >
             <AiFillLinkedin style={{ height: "2rem", width: "2rem" }} />
+          </a>
+          <a href="https://dev.to/saishj" className="social-icons">
+            <FaDev style={{ height: "2rem", width: "2rem" }} />
           </a>
         </div>
       </div>

@@ -11,7 +11,7 @@ export const projects = [
     id: 2,
     title: "Rupesh Lights",
     image:
-      "https://user-images.githubusercontent.com/59008917/185378466-eafe76d8-8e5d-45c9-9e34-04aa00c45e41.png",
+      "https://user-images.githubusercontent.com/59008917/195822494-db25e4ea-a929-4df7-99b5-b59715ccdcb9.png",
     code: "https://github.com/SaishJ/RupeshLights",
     live: "https://rupeshlights.netlify.app/",
   },
