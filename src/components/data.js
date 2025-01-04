@@ -9,22 +9,6 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Rupesh Lights",
-    image:
-      "https://user-images.githubusercontent.com/59008917/195822494-db25e4ea-a929-4df7-99b5-b59715ccdcb9.png",
-    code: "https://github.com/SaishJ/RupeshLights",
-    live: "https://rupeshlights.netlify.app/",
-  },
-  {
-    id: 3,
-    title: "Screenshot Downloader",
-    image:
-      "https://user-images.githubusercontent.com/59008917/185378488-0b56d011-f274-4f15-bec3-4c0119844bd4.png",
-    code: "https://github.com/SaishJ/Screenshot-Downloader-App",
-    live: "https://saishj.github.io/Screenshot-Downloader-App/",
-  },
-  {
-    id: 4,
     title: "React Native Chat Application",
     image:
       "https://user-images.githubusercontent.com/59008917/185378411-e7f78b46-1979-442e-b455-1fe5c3970a12.png",
@@ -32,19 +16,35 @@ export const projects = [
     live: "https://github.com/SaishJ/ReactNative-ChatApp/blob/master/android/app/build/outputs/apk/release/app-release.apk",
   },
   {
-    id: 5,
-    title: "Currency Converter Cordova",
+    id: 3,
+    title: "Rupesh Lights",
     image:
-      "https://user-images.githubusercontent.com/59008917/185378445-d5e0b671-7ff1-42c4-8e06-fcc2800529ea.png",
-    code: "https://github.com/SaishJ/Currency-Converter-Cordova-",
-    live: "https://github.com/SaishJ/Currency-Converter-Cordova-",
+      "https://user-images.githubusercontent.com/59008917/195822494-db25e4ea-a929-4df7-99b5-b59715ccdcb9.png",
+    code: "https://github.com/SaishJ/RupeshLights",
+    live: "https://rupeshlights.netlify.app/",
+  },
+  {
+    id: 4,
+    title: "Delicious",
+    image:
+      "https://github.com/user-attachments/assets/3e4bbf3a-2495-4dd8-92cf-c9a16c2670d5",
+    code: "https://github.com/SaishJ/Deliciouss-React-Recipe-App",
+    live: "https://delicious-sj.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "ASA Gats",
+    image:
+      "https://github.com/user-attachments/assets/3239afb3-ad2a-4f64-a3e4-60c123fd1e15",
+    code: "https://github.com/SaishJ",
+    live: "https://asa-gats.netlify.app/",
   },
   {
     id: 6,
-    title: "To Do List",
+    title: "Movie Recommendation System",
     image:
-      "https://user-images.githubusercontent.com/59008917/185378497-83f9d025-1793-4e4a-9357-2f03df3ccb97.png",
-    code: "https://github.com/SaishJ/ToDo-List",
-    live: "https://github.com/SaishJ/ToDo-List",
+      "https://github.com/user-attachments/assets/027ca6dc-9233-4694-85fb-03f5ce706a1b",
+    code: "https://github.com/SaishJ/Movie-Recommendation-System",
+    live: "https://saishj.netlify.app/",
   },
 ];
